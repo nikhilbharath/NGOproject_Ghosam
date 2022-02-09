@@ -1,0 +1,20 @@
+[DEBUG] 2020-05-22 17:18:32,443 Utils.Test execute - Test: DEBUG level message.
+[INFO] 2020-05-22 17:18:32,445 Utils.Test execute - Test: INFO level message.
+[WARN] 2020-05-22 17:18:32,446 Utils.Test execute - Test: WARN level message.
+[ERROR] 2020-05-22 17:18:32,446 Utils.Test execute - Test: ERROR level message.
+[FATAL] 2020-05-22 17:18:32,446 Utils.Test execute - Test: FATAL level message.
+[INFO] 2020-05-22 20:16:23,458 com.mvc.controller.LoginServlet doPost - User 0 has logged into the system
+[INFO] 2020-05-22 20:16:27,730 com.mvc.controller.LoginServlet doPost - User 0 has logged into the system
+[INFO] 2020-05-22 20:16:31,179 com.mvc.controller.LoginServlet doPost - User 0 has logged into the system
+[INFO] 2020-05-22 20:16:35,898 com.mvc.controller.LoginServlet doPost - User 1 has logged into the system
+[INFO] 2020-05-22 20:30:15,793 com.mvc.controller.LoginServlet doPost - User nikbharath has logged into the system
+[INFO] 2020-05-22 20:30:20,664 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:29:55,351 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:31:49,116 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:33:56,740 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:37:14,646 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:39:19,135 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:41:42,932 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:42:33,850 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:44:36,513 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
+[INFO] 2020-05-26 19:54:32,411 com.mvc.controller.LoginServlet doPost - User admin has logged into the system
